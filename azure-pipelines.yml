@@ -16,7 +16,7 @@ steps:
   displayName: 'Install Node.js'
 
 - script: |
-    npm ls
+    npm clean
     npm install
     npm run build
     npm test
