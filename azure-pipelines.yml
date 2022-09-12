@@ -8,7 +8,6 @@ trigger:
 
 pool:
   name: mil-01
-
   #vmImage: ubuntu-latest
 
 steps:
